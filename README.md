@@ -208,42 +208,6 @@ Further forensic analysis would be required to confirm exactly which files were 
 
 ---
 
-## Key Lessons from the Investigation
-
-The investigation demonstrated the importance of correlating individual security events rather than investigating them in isolation.
-
-A single PowerShell execution may be legitimate. A single after-hours login may also be legitimate.
-
-However, when these events occur alongside:
-
-- Unauthorized account creation
-- Privilege escalation
-- Sensitive file access
-- External network communication
-- Large outbound data transfers
-
-the combined activity becomes significantly more suspicious.
-
----
-
-## Skills Demonstrated
-
-- Digital Forensics and Incident Response
-- SOC investigation
-- Windows security event analysis
-- Incident timeline reconstruction
-- IOC identification
-- PowerShell investigation
-- Account and privilege analysis
-- File access investigation
-- Network activity analysis
-- Data exfiltration detection
-- MITRE ATT&CK mapping
-- Incident containment
-- Security incident reporting
-
----
-
 ## Conclusion
 
 This simulated investigation demonstrated a complete DFIR workflow from initial access through suspected data exfiltration.
