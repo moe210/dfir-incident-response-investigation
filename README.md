@@ -127,7 +127,7 @@ Approximately **118 MB of data** was transferred from the affected environment t
 
 Because sensitive HR and financial information had been accessed before the outbound transfer, the event was assessed as **suspected data exfiltration**.
 
-![Exfiltration Evidence](./images/exfiltration-evidence.png)
+![Exfiltration Evidence](13726320-3F7F-4472-B3FB-A60D2F18EAE2.jpeg)
 
 *Network evidence associated with the outbound data transfer.*
 
