@@ -24,13 +24,6 @@ The activity was investigated as a potential workstation compromise and possible
 
 ---
 
-## Attack Flow
-
-![DFIR Attack Flow Diagram](./images/incident-attack-flow.png)
-
-*Reconstructed attack path from initial access to suspected data exfiltration.*
-
----
 
 ## Attack Timeline
 
