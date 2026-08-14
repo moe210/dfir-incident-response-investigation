@@ -62,7 +62,7 @@ PowerShell execution was identified after the successful authentication event.
 
 PowerShell itself is a legitimate Windows administration tool, but its presence alongside account creation, privilege escalation, and sensitive file access increased the likelihood of malicious activity.
 
-![PowerShell Evidence](DBF69FA3-0873-45B7-8F76-EC58A9673FDE.png)
+![PowerShell Evidence](13726320-3F7F-4472-B3FB-A60D2F18EAE2.jpeg)
 
 *PowerShell activity identified during the simulated investigation.*
 
