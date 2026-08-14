@@ -103,7 +103,7 @@ The investigation identified access to information including:
 - Payroll data
 - Financial reports
 
-![Sensitive File Access](13726320-3F7F-4472-B3FB-A60D2F18EAE2.jpeg)
+![Sensitive File Access](DBF69FA3-0873-45B7-8F76-EC58A9673FDE.png)
 
 *Evidence of sensitive file access during the investigation.*
 
